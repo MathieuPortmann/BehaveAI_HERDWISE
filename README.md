@@ -1,4 +1,8 @@
+This repository is a fork of the original BehaveAI project located at https://github.com/troscianko/BehaveAI and led by Jolyon Troscianko.
+
 <img width="400" height="69" alt="BehaveAI_400" src="https://github.com/user-attachments/assets/6fb5cd16-d266-4e8b-9513-1734a45813bf" />
+
+# Fork of BehaveAI
 
 
 # A framework for detecting, classifying and tracking moving objects
